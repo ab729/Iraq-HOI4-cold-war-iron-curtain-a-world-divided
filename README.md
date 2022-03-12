@@ -8,4 +8,4 @@ also you must take the files in models/units to the same directory in the mod fi
 
 
 
-Conjarts!!! you have real Iraqi army animations now.
+Conjarts!!! you have real Iraqi army animations now...
